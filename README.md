@@ -1,5 +1,8 @@
-# Hello-world
-/* This is the usual hello word exercise written in C++ */
+// Hello-world
+/*
+This is the usual hello word exercise.
+They're all gonna look something like this...
+*/
 #include <iostream>
 
 int main(){
